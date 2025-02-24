@@ -10,10 +10,6 @@ Project R.I.S.E is an initiative to renovate indoor sports facilities with moder
 - **Enhanced Experience**: Upgraded facilities to provide a better athletic environment.
 - **Research Documentation**: Comprehensive research and planning documents supporting the renovation proposal.
 
-## Website Preview
-![Project R.I.S.E Preview](path/to/screenshot.png)  
-*A preview of the Project R.I.S.E website.*
-
 ## Installation & Usage
 1. Clone this repository:
    ```bash
