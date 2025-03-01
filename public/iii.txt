@@ -1,0 +1,114 @@
+“PROJECT R.I.S.E: RENOVATING INDOOR SPORTS FOR EXCELLENCE”
+
+CHAPTER 1
+INTRODUCTION
+	This chapter provides a comprehensive overview of the project proposal, outlining its key components and foundational aspects including: Context and Background, Problem Statement, Research Objective, Research Questions/Focus, Significance of the Study, Scope of the Project, Limitation of the Project, and Definition of Terms.
+
+Context and Background
+The Multi-Purpose Hall (MPH) Court of New Era University College serves as a vital space for various school activities, including physical education classes, varsity training, and events. However, the current state of the court presents challenges such as poor ventilation and inadequate lighting, which affect the comfort and performance of students, teachers, and athletes. To address these issues, this project proposes a renovation plan using the AutoCAD application to visualize improvements that will enhance the court’s functionality. By upgrading the MPH Court, this project aims to create a more comfortable and efficient environment that supports both academic and extracurricular activities.
+
+Review of Literature and Studies
+Renovating the Multi-Purpose Hall (MPH) Court at New Era University College is essential for improving its functionality and creating a more comfortable space for students, teachers, and athletes. Addressing issues like poor lighting and ventilation will enhance the overall experience and safety of those using the facility while also increasing energy efficiency.
+
+The Role of Proper Lighting
+Good lighting plays a crucial role in sports facilities, affecting both performance and safety. Research shows that LED lighting provides bright, even illumination, reducing shadows and dark areas that can hinder visibility or increase the risk of injuries. LEDs are also a smart investment because they use less energy and last longer compared to traditional lighting options. Schools and sports centers that have switched to LED lights have reported lower electricity costs and improved visibility on their courts (LED Lighting Supply, 2024).
+
+The Role of Air Quality
+The quality of indoor air in sports facilities plays a vital role in maintaining the health and performance of athletes, coaches, and spectators. Koivisto (2021) states that increased physical activity leads to higher respiratory rates, which, in turn, results in greater inhalation of air pollutants such as particulate matter (PM), volatile organic compounds (VOCs), and other harmful contaminants. Poor air quality in enclosed sports venues can contribute to respiratory problems, allergic reactions, and long-term lung damage.
+
+Thermal Comfort in Indoor Sports Facilities
+In indoor sports facilities, varying occupancy levels and increased heat and moisture emissions from athletes create additional strain on ventilation systems. This thesis explores human thermal response and the suitability of demand-controlled ventilation (DCV) in these environments as part of the LIIKU project, which examines indoor air quality and its potential effects on occupant health and well-being.
+
+The Need for Better Ventilation
+Proper ventilation is equally important, especially in enclosed spaces like gymnasiums and multi-purpose halls. Studies indicate that poor airflow can lead to increased carbon dioxide levels, which may cause fatigue and reduce concentration. In high-traffic areas, inadequate ventilation can also contribute to the spread of airborne illnesses. Ensuring a continuous flow of fresh air can significantly improve air quality, creating a healthier and more comfortable environment for everyone (PMC, 2022).
+
+Examples of Successful Facility Upgrades
+Several institutions have successfully upgraded their facilities by improving lighting and ventilation:
+TBCS Gymnasium Lighting Project – This gym replaced outdated lighting fixtures with energy-efficient LED lights, resulting in improved brightness, reduced energy consumption, and lower maintenance costs. The upgrade significantly enhanced the playing conditions while extending the lifespan of the lighting system (LED Lighting Supply, 2024 ).
+Blach School Facility Improvement – This school focused on enhancing indoor spaces by incorporating more natural light and optimizing airflow. The renovations led to lower energy costs and a healthier indoor environment, benefiting both students and staff (New Buildings Institute, n.d.).
+
+Problem Statement
+	As global temperatures continue to rise, the need for high-quality educational spaces becomes essential to ensure a comfortable and efficient environment for students, teachers, and varsity athletes. Optimal lighting placement is crucial to prevent distractions and ensure peak performance in both academic and athletic activities. This project proposal seeks to enhance the NEU College MPH Court by improving its ventilation and lighting, creating a more supportive and dynamic space for learning and sports.
+
+Research Objectives
+This project proposal aims to renovate the NEU College MPH Court to improve its overall functionality and comfort. The proposed renovation will create a more suitable environment for students, teachers, and varsity players, ensuring a better experience during physical activities. Additionally, this proposal seeks to achieve the following:
+To improve ventilation and lighting in the MPH Court, ensuring a more comfortable environment for students, teachers, and varsity players.
+To utilize AutoCAD in designing and visualizing the renovation plan for accurate and efficient project implementation.
+To enhance the functionality and safety of the court, making it more suitable for physical education classes, training, and school events.
+To provide a better facility that supports student activities, faculty needs, and athletic performance.
+
+Research Questions/Focus
+	Specifically, this project proposal seeks to answer the following:
+1. How satisfied are the respondents with the comfortability and functionality of the NEU 
+College MPH Court?
+2. How can AutoCAD enhance the precision, efficiency, and effectiveness of the project design?
+3. How can the NEU College MPH Court be optimized to enhance its comfortability and functionality?
+
+
+Significance of the Study
+This project proposal aims to enhance the comfortability and functionality of the NEU College MPH Court. The main priority of this project is to improve the ventilation and lighting of the court. Specifically, the implementation of this project proposal will be  beneficial to the following:
+Students
+ With improved ventilation and lighting, students will be able to perform their Physical Education (PE) activities in a more comfortable and productive setting. The reduction of excessive heat and improved visibility will allow them to focus better on their tasks, leading to a more engaging and enjoyable learning experience.
+Teachers
+Teachers will benefit from an enhanced teaching environment where they can conduct classes with greater ease. The improved airflow will reduce fatigue and discomfort, allowing them to deliver lessons more effectively. With better lighting, they will also be able to demonstrate techniques and monitor students’ performance more efficiently.
+
+
+Varsity Athletes
+For varsity players, a well-ventilated and well-lit court means they can train under optimal conditions. They will no longer have to struggle with excessive heat, glare, or poor air circulation, allowing them to concentrate fully on their practice. This will contribute to improved endurance, better performance, and overall physical well-being.
+Sports Coaches
+Coaches will be able to train their athletes more efficiently in a more comfortable and professional environment. With better lighting, they can analyze movements and techniques with greater accuracy, providing better feedback and guidance. Proper ventilation will also help reduce the risk of exhaustion or heat-related issues, ensuring a safer and more effective training experience.
+
+Scope of the Project
+This project proposal focuses solely on the renovation and enhancement of the New Era University College’s Multi-Purpose Hall (MPH) Court. The primary improvements will include upgrading the ventilation and lighting systems to create a more comfortable and functional environment for students, teachers, athletes, and event organizers. The scope will encompass structural adjustments, fixture installations, and design modifications aimed at optimizing the court’s usability.
+
+Limitations of the Project
+This proposal is limited to the conceptual design and visualization of the renovation. The AutoCAD application will be the sole software used to illustrate the proposed changes, including layout modifications and fixture placements. No physical construction, cost estimation, or engineering feasibility studies will be conducted as part of this proposal.
+
+Definition of Terms
+AutoCAD -  A 2D and 3D computer-aided design software developed by Autodesk for drafting, modeling, and design purposes.
+Ventilation - The circulation of air throughout a room or a building.
+Dynamic - Active.
+MPH - A shorter term for Multi-Purpose hall.
+
+CHAPTER 2
+METHODS AND MATERIALS
+
+Research Approach/ Design
+For the renovation of the NEU College MPH Court, a quantitative descriptive research approach using a Likert Scale survey is the most effective method. This approach allows for structured data collection, ensuring controlled and measurable insights into students', teachers', and athletes' experiences with the facility. The Likert Scale provides standardized responses, making it easier to analyze satisfaction levels regarding ventilation, lighting, and overall functionality. By identifying key areas for improvement through statistical analysis, this method ensures that the renovation decisions are driven by data and directly address the needs of the facility users, resulting in a more comfortable and efficient space.
+
+Tools and Technology
+	The primary tool utilized for this proposal is the default version of AutoCAD (2025). This software serves as the exclusive platform for designing and visualizing the proposed renovation of the New Era University College’s Multi-Purpose Hall (MPH) Court. AutoCAD (2025) is employed to create detailed floor plans, layout modifications, and structural enhancements, ensuring a precise and professional representation of the envisioned improvements.
+
+Workflow and Process
+Preliminary Planning 
+Strategic planning is essential for the renovation of the New Era University College’s Multi-Purpose Hall (MPH) Court. This process requires thorough assessment of factors to consider regarding optimization of facilities, adherence to established safety regulations, and implementation of resources.
+Floor Plan Drafting
+	Development of a floor plan will aid in the visualization of the project proposal, facilitating a clear layout and overall design of the renovated Multi-Purpose Hall (MPH) court. A detailed floor plan serves as a crucial tool for architects and engineers, allowing for integration of essential elements and providing a structured outline.
+3D Model of Renovation
+A 3D model is essential for the renovation of the NEU College MPH Court as it provides a realistic visualization of proposed improvements, ensuring optimal ventilation, lighting, and layout. It enhances precision, identifies potential issues, and streamlines planning, reducing errors and delays. Additionally, it serves as a valuable communication tool, helping stakeholders understand the design and make informed decisions. 
+
+
+Data Collection and Experimentation
+A structured questionnaire will be developed as the primary instrument data collection, incorporating close-ended questions using a Likert scale to ensure that the acquired data are measurable and suitable for analysis. This method allows for a systematic evaluation of user insights, facility usage patterns, and  overall satisfaction levels that will aid the renovation planning process. To ensure accuracy and representativeness, a stratified random sampling approach will be applied, dividing the target population into distinct groups. Random selection within each group will minimize sampling bias and enhance the reliability of the findings.
+
+Customization or Development
+AutoCAD Visual Styles Manager
+The visual styles manager in AutoCAD 3D provides a range of viewing modes that allows users to visualize their models from different perspectives. Utilization of the visual styles manager will enhance the clarity, aid in the design of the renovated facility by adjusting shading, lighting, edge visibility, and rendering effects, and improve the design process.
+AutoCAD Custom Measurements and Scaling
+A key feature in AutoCAD 3D is the ability to set custom measurements and scale drawings, allowing users to tailor the application to meet specific project requirements. This functionality ensures precision and accuracy in design, allowing architects, engineers, and designers to create models that conform to exact dimensions and proportions. The designers of the renovated 3D model of the NEU MPH College Court can leverage this functionality to create a precsise and optimized representation of the facility.
+Smart Design Adjustments
+Instead of making manual updates to every part of the design, smart tools were introduced to make changes automatically. When one element is modified, related components adjust accordingly, keeping everything in place and properly aligned.
+The layout adapts smoothly without losing accuracy.
+Snapping and alignment tools make it easier to position elements correctly.
+
+
+
+
+BIBLIOGRAPHY	
+Koivisto, T. (2021). Air contaminants in different indoor sports facilities (Master’s 
+thesis). Aalto University, Espoo, Finland. 
+https://aaltodoc.aalto.fi/items/3151a0cf-8597-4e73-b398-88fd18234173
+
+LED Lighting Supply. (2024). Your Knowledgeable LED Lighting, Fans & Poles Supplier with 100,000+ Products in Stock | LEDLightingSupply.com. https://ledlightingsupply.com/
+
+5 Reasons to Incorporate Translucent Daylighting in your Athletic Facility Design. (n.d.-b). Kingspan US. https://www.kingspan.com/us/en/knowledge-articles/5-reasons-to-incorporate-translucent-daylighting-into-athletic-facilities/ 
