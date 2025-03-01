@@ -14,8 +14,8 @@ const Gallery = () => {
 
   return (
     <div className="w-full">
-      <h2 className="text-3xl font-bold mb-6">Facility Gallery</h2>
-      <p className="text-slate-300 mb-8">
+      <h2 className="text-3xl font-bold mb-6 text-white">Facility Gallery</h2>
+      <p className="text-white mb-8">
         View our proposed renovation designs for the indoor sports facility.
       </p>
       

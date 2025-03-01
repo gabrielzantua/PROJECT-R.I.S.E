@@ -15,10 +15,10 @@ function App() {
               PROJECT R.I.S.E
             </a>
             <div className="flex space-x-8">
-              <a href="#home" className="text-slate-300 hover:text-white hover:scale-105 transition-all duration-200 ease-in-out">Home</a>
-              <a href="#model" className="text-slate-300 hover:text-white hover:scale-105 transition-all duration-200 ease-in-out">3D Model</a>
-              <a href="#gallery" className="text-slate-300 hover:text-white hover:scale-105 transition-all duration-200 ease-in-out">Gallery</a>
-              <a href="#documentation" className="text-slate-300 hover:text-white hover:scale-105 transition-all duration-200 ease-in-out">Documentation</a>
+              <a href="#home" className="text-white hover:text-white hover:scale-105 transition-all duration-200 ease-in-out">Home</a>
+              <a href="#model" className="text-white hover:text-white hover:scale-105 transition-all duration-200 ease-in-out">3D Model</a>
+              <a href="#gallery" className="text-white hover:text-white hover:scale-105 transition-all duration-200 ease-in-out">Gallery</a>
+              <a href="#documentation" className="text-white hover:text-white hover:scale-105 transition-all duration-200 ease-in-out">Documentation</a>
             </div>
           </div>
         </div>
@@ -35,7 +35,7 @@ function App() {
           <h1 className="text-5xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-cyan-300">
             PROJECT R.I.S.E
           </h1>
-          <p className="text-2xl text-slate-300 mb-8">
+          <p className="text-2xl text-white mb-8">
             Renovating Indoor Sports for Excellence
           </p>
         </motion.div>
@@ -78,7 +78,7 @@ function App() {
           >
             <Building2 className="w-12 h-12 text-blue-400 mb-4" />
             <h3 className="text-xl font-semibold mb-2">3D Renovation Model</h3>
-            <p className="text-slate-400">
+            <p className="text-white">
               Complete AutoCAD redesign of the indoor sports facility with modern amenities and improved space utilization.
             </p>
           </motion.div>
@@ -91,7 +91,7 @@ function App() {
           >
             <Users className="w-12 h-12 text-blue-400 mb-4" />
             <h3 className="text-xl font-semibold mb-2">Enhanced Experience</h3>
-            <p className="text-slate-400">
+            <p className="text-white">
               Improved facilities designed to enhance the athletic experience for students and faculty.
             </p>
           </motion.div>
@@ -104,7 +104,7 @@ function App() {
           >
             <FileText className="w-12 h-12 text-blue-400 mb-4" />
             <h3 className="text-xl font-semibold mb-2">Research Documentation</h3>
-            <p className="text-slate-400">
+            <p className="text-white">
               Comprehensive research and planning documentation supporting the renovation proposal.
             </p>
           </motion.div>
@@ -120,7 +120,7 @@ function App() {
           className="bg-slate-800/50 p-8 rounded-xl border border-slate-700"
         >
           <h2 className="text-3xl font-bold mb-6">Research Document</h2>
-          <p className="text-slate-300 mb-6">
+          <p className="text-white mb-6">
             Our comprehensive research document details the proposed renovations, impact analysis, and implementation strategy for the indoor sports facility upgrade.
           </p>
           <div className="w-full h-[600px] rounded-lg overflow-hidden border border-slate-600">
@@ -132,10 +132,10 @@ function App() {
       {/* Footer */}
       <footer className="container mx-auto px-4 py-8 border-t border-slate-700">
         <div className="flex justify-between items-center">
-          <p className="text-slate-400">© 2025 Project R.I.S.E</p>
+          <p className="text-white">© 2025 Project R.I.S.E</p>
           <a
             href="#"
-            className="text-slate-400 hover:text-white transition-colors"
+            className="text-white hover:text-white transition-colors"
           >
             <Github className="w-6 h-6" />
           </a>
