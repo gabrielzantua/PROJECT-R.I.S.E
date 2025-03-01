@@ -83,7 +83,7 @@ const DocumentViewer = () => {
               <button
                 key={section.id}
                 onClick={() => scrollToSection(section.id)}
-                className={`w-full text-left py-1.5 px-2 rounded transition-colors duration-200 ${section.level === 2 ? 'pl-8 text-sm text-slate-300 hover:bg-slate-700/50' : 'text-base text-white hover:bg-slate-700'}`}
+                className={`w-full text-left py-1.5 px-2 rounded transition-colors duration-200 ${section.level === 2 ? 'pl-8 text-sm text-white hover:bg-slate-700/50' : 'text-base text-white hover:bg-slate-700'}`}
               >
                 {section.title}
               </button>
@@ -119,7 +119,7 @@ const DocumentViewer = () => {
                 <h1 
                   id={`section-${index}`} 
                   key={index} 
-                  className="text-3xl font-bold text-white mt-8 mb-6"
+                  className="text-3xl font-bold text-white mt-12 mb-8"
                 >
                   {line}
                 </h1>
@@ -133,7 +133,7 @@ const DocumentViewer = () => {
                   <h2 
                     id={`section-${index}`} 
                     key={index} 
-                    className="text-2xl font-semibold text-slate-200 mt-8 mb-6 pl-8"
+                    className="text-2xl font-semibold text-white mt-10 mb-6 pl-8"
                   >
                     {line}
                   </h2>
@@ -141,7 +141,7 @@ const DocumentViewer = () => {
               }
             }
             return (
-              <p key={index} className="text-base text-slate-300 leading-relaxed my-4 font-normal">
+              <p key={index} className="text-white leading-relaxed my-6 font-normal max-w-4xl mx-auto">
                 {line}
               </p>
             );
