@@ -11,7 +11,7 @@ function App() {
       <nav className="fixed top-0 left-0 right-0 bg-slate-900/90 backdrop-blur-sm z-50 border-b border-slate-700">
         <div className="container mx-auto px-4">
           <div className="flex items-center h-16">
-            <a href="index.html" className="text-xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-cyan-300 mr-auto ml-0 transform hover:scale-105 transition-transform duration-200">
+            <a href="./" className="text-xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-cyan-300 mr-auto ml-0 transform hover:scale-105 transition-transform duration-200">
               PROJECT R.I.S.E
             </a>
             <div className="flex space-x-8">
@@ -124,7 +124,7 @@ function App() {
             Our comprehensive research document details the proposed renovations, impact analysis, and implementation strategy for the indoor sports facility upgrade.
           </p>
           <div className="w-full h-[600px] rounded-lg overflow-hidden border border-slate-600">
-            <iframe src="/iii.html" className="w-full h-full" title="Project Documentation" />
+            <iframe src="./iii.html" className="w-full h-full" title="Project Documentation" />
           </div>
         </motion.div>
       </section>
