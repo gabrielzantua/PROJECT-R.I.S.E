@@ -23,7 +23,7 @@ function MPHCourtModel() {
   const [error, setError] = useState<string | null>(null);
   
   // Load the model
-  const { scene, nodes, materials } = useGLTF('/models/model.gltf', undefined, 
+  const { scene, nodes, materials } = useGLTF('./models/model.gltf', undefined, 
     (e) => {
       console.error('Error loading model:', e);
       setError(e.message || 'Failed to load model');

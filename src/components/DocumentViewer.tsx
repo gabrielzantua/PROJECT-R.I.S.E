@@ -14,7 +14,7 @@ const DocumentViewer = () => {
   const contentRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    fetch('/iii.txt')
+    fetch('./iii.txt')
       .then(response => {
         if (!response.ok) {
           throw new Error('Failed to load document');

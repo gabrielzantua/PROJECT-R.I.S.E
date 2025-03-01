@@ -4,9 +4,9 @@ import { motion } from 'framer-motion';
 // Import images
 // Note: You'll need to save these images to your public directory
 const images = [
-  '/images/Angle 1 MPH.png',
-  '/images/Angle 2 MPH.png',
-  '/images/Angle 3.png'
+  './images/Angle 1 MPH.png',
+  './images/Angle 2 MPH.png',
+  './images/Angle 3.png'
 ];
 
 const Gallery = () => {
